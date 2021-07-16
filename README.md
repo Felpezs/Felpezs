@@ -16,4 +16,5 @@
     <li>CSS</li>
     <li>HTML</li>
     <li>Bootstrap</li>
+    <li>JavaScript</li>
 </ul>
