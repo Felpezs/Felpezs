@@ -11,10 +11,13 @@
 ><h3>Some technologies that I'm studying 👨‍💻:</h3>
 
 <ul>
-    <li>C/C++</li>
+    <li>C</li>
     <li>Python</li>
     <li>CSS</li>
     <li>HTML</li>
     <li>Bootstrap</li>
     <li>JavaScript</li>
+    <li>Java</li>
+    <li>Flutter</li>
+    <li>React Native</li>
 </ul>
