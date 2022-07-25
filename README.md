@@ -8,16 +8,22 @@
 </ul>
 <br>
 
-><h3>Some technologies that I'm studying 👨‍💻:</h3>
+<hr>
 
-<ul>
-    <li>C</li>
-    <li>Python</li>
-    <li>CSS</li>
-    <li>HTML</li>
-    <li>Bootstrap</li>
-    <li>JavaScript</li>
-    <li>Java</li>
-    <li>Flutter</li>
-    <li>React Native</li>
-</ul>
+><h3>Some technologies that I've worked with:</h3>
+<div style="display: inline-block">
+     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+</div>
+<br><br>
+
+><h3>Learning and working with 👨‍💻:</h3>
+
+<div style="display: inline-block">
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
