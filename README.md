@@ -3,7 +3,7 @@
 
 ><h2>About Me:</h2>
 <ul>
-  <li><p>I'm studying Information Systems at <a href="https://www.unicamp.br/unicamp/">State University of Campinas</a>.</p></li>
+  <li><p>Bachelor in Information Systems at <a href="https://www.unicamp.br/unicamp/">State University of Campinas</a>.</p></li>
   <li><p>I like to <strong>help</strong> people and <strong>share</strong> my knowledges 📚.</p></li>
   <li><p>I love to <strong>learn</strong> new technologies.</p></li>
 </ul>
