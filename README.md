@@ -8,9 +8,8 @@ I have solid experience with **AWS**, **Azure**, **automated testing**, and **se
 
 I enjoy collaborating with cross-functional teams, defining effective technical solutions,  
 and always focusing on **performance**, **user experience**, and **software engineering best practices**.
-<br>
-
-><h2>Some technologies that I've used 🖥️:</h2>
+<br><br>
+><h2>Some technologies that I've expertise with 🖥️:</h2>
 
 <div style="display: inline-block">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -23,7 +22,7 @@ and always focusing on **performance**, **user experience**, and **software engi
 </div>
 <br><br>
 
-><h2>Learning and working with 👨‍💻:</h2>
+><h2>Working currently with 👨‍💻:</h2>
 
 <div style="display: inline-block">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
