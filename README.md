@@ -2,11 +2,12 @@
 <br>
 
 ><h2>About Me:</h2>
-<ul>
-  <li><p>Bachelor in Information Systems at <a href="https://www.unicamp.br/unicamp/">State University of Campinas</a>.</p></li>
-  <li><p>I like to <strong>help</strong> people and <strong>share</strong> my knowledges 📚.</p></li>
-  <li><p>I love to <strong>learn</strong> new technologies.</p></li>
-</ul>
+I'm Felipe Eduardo, Software Engineer and Bachelor in Information Systems at Unicamp. I'm passionate about building scalable, high-performance web applications.  
+With over 3 years of experience in full stack development, I specialize in **React**, **VueJS**, **Node.js**, and **NestJS**.  
+I have solid experience with **AWS**, **Azure**, **automated testing**, and **service-oriented architectures**.
+
+I enjoy collaborating with cross-functional teams, defining effective technical solutions,  
+and always focusing on **performance**, **user experience**, and **software engineering best practices**.
 <br>
 
 ><h2>Some technologies that I've used 🖥️:</h2>
